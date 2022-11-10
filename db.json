@@ -1,9 +1,74 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "products": [
+    {
+      "id": 1,
+      "title": "Medicine",
+      "discount": "UPTO 20% OFF",
+      "image": "https://assets.pharmeasy.in/apothecary/images/medicine_ff.webp?dim=256x0"
+    },
+    {
+      "id": 2,
+      "title": "Lab Tests",
+      "discount": "UPTO 70% OFF",
+      "image": "https://assets.pharmeasy.in/apothecary/images/labtest_ff.webp?dim=256x0"
+    },
+    {
+      "id": 3,
+      "title": "Healthcare",
+      "discount": "UPTO 60% OFF",
+      "image": "https://assets.pharmeasy.in/apothecary/images/healthcare_ff.webp?dim=256x0"
+    },
+    {
+      "id": 4,
+      "title": "Health Blogs",
+      "discount": "",
+      "image": "https://assets.pharmeasy.in/apothecary/images/health_blogs_ff.webp?dim=256x0"
+    },
+    {
+      "id": 5,
+      "title": "PLUS",
+      "discount": "SAVE 20% EXTRA",
+      "image": "https://assets.pharmeasy.in/apothecary/images/plus_ff.webp?dim=256x0"
+    },
+    {
+      "id": 6,
+      "title": "Offers",
+      "discount": "",
+      "image": "https://assets.pharmeasy.in/apothecary/images/offers_ff.webp?dim=256x0"
+    },
+    {
+      "id": 7,
+      "title": "Surgeries",
+      "discount": "",
+      "image": "https://assets.pharmeasy.in/apothecary/images/offers_1_ff.webp?dim=256x0"
+    },
+    {
+      "id": 8,
+      "title": "Value Store",
+      "discount": "UPTO 50% OFF",
+      "image": "https://assets.pharmeasy.in/apothecary/images/value_store.png?dim=256x0"
+    }
+  ],
+  "offerCards": [
+    {
+      "id": 1,
+      "image": "https://cdn01.pharmeasy.in/dam/banner/banner/782553ad506-STAR25.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn01.pharmeasy.in/dam/banner/banner/b3a4bdb683b-1.jpg"
+    }
+  ],
+  "offers": [
+    {
+      "id": 1,
+      "image": "https://cms-contents.pharmeasy.in/offer/c287851239f-25_off.jpg?dim=1280x0",
+      "offer": "Flat 25% off on first 3 medicine orders."
+    },
+    {
+      "id": 2,
+      "image": "https://cms-contents.pharmeasy.in/offer/b1cafb3a0cf-flat_27_off.jpg?dim=1280x0",
+      "offer": "Flat 27% off + up to Rs.1000 surprise cashback"
+    }
+  ]
+}
