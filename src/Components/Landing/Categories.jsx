@@ -82,7 +82,15 @@ const Categories = () => {
             index <= slides.end &&
             index >= slides.start && (
               <Box key={item.id} textAlign="center">
-                <Box border="1px solid gray" borderRadius={10} p={1}>
+                <Box
+                  border="1px solid gray"
+                  borderRadius={10}
+                  p={1}
+                  _hover={{
+                    boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
+                    cursor: "pointer",
+                  }}
+                >
                   <Image src={item.image} alt="image" />
                 </Box>
                 <Box my={3} mx={6}>
