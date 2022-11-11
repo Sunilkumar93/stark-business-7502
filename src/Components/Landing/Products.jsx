@@ -13,7 +13,7 @@ const Products = () => {
     getData().then((res) => setData(res.data));
   }, []);
   return (
-    <Container maxW={"100%"}>
+    <Container maxW={"100%"} mx={0}>
       <Grid gridTemplateColumns={"repeat(8,1fr)"}>
         {data?.map((card) => {
           return (

@@ -19,7 +19,7 @@ import { SearchIcon } from "@chakra-ui/icons";
 
 const Searchitem = () => {
   return (
-    <Container my={9} maxW="container.md">
+    <Container my={9} maxW={"60%"} mx={"auto"} justifyContent="center">
       <VStack>
         <HStack w="100%">
           <Box>

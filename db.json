@@ -70,5 +70,87 @@
       "image": "https://cms-contents.pharmeasy.in/offer/b1cafb3a0cf-flat_27_off.jpg?dim=1280x0",
       "offer": "Flat 27% off + up to Rs.1000 surprise cashback"
     }
+  ],
+  "Categories":[
+    {
+      "id":1,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/b26fa52dd35339e1a4e00c47b04e12d0.jpg?f=jpg?dim=256x0",
+      "Category":"Pet care"
+    },
+    {
+      "id":2,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/1e622b0308ec3ab48887512eaa3488a5.png?f=png?dim=256x0",
+      "Category":"Personal care"
+    },
+    {
+      "id":3,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/cfc8ee511609321e91eb86a34f5b2885.png?f=png?dim=256x0",
+      "Category":"Healthcare devices"
+    },
+    {
+      "id":4,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/335dae76832d370c94f0440f5ba89e1f.png?f=png?dim=256x0",
+      "Category":"Health food and drinks"
+    },
+    {
+      "id":5,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/403b8ada7b113c7cb2e8d09e3420edfa.png?f=png?dim=256x0",
+      "Category":"Beauty"
+    },
+    {
+      "id":6,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/fa936f30b4563fc4abd187fb22fe5258.png?f=png?dim=256x0",
+      "Category":"Elderly care"
+    },
+    {
+      "id":7,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/dc96175686f135b5a22d1e57165d0246.png?f=png?dim=256x0",
+      "Category":"Home care"
+    },
+    {
+      "id":8,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f692f7243b8036ed97d99a7973dd42b3.png?f=png?dim=256x0",
+      "Category":"Mother and baby care"
+    },
+    {
+      "id":9,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/154dec0567b23244b7dcbf2158d39eee.png?f=png?dim=256x0",
+      "Category":"Skin care"
+    },
+    {
+      "id":10,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/514d0d7d01a63502b4ebfec9ae26f4d2.png?f=png?dim=256x0",
+      "Category":"Fitness supplements"
+    },
+    {
+      "id":11,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/105ceca515ee30509f93309ae75306aa.png?f=png?dim=256x0",
+      "Category":"Diabetic care"
+    },
+    {
+      "id":12,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/d1b29f7a2b5f3d62a3d47b617aceef1b.png?f=png?dim=256x0",
+      "Category":"Sexual wellness"
+    },
+    {
+      "id":13,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/ecad9a974e003fb987858b3ee81413c6.png?f=png?dim=256x0",
+      "Category":"Ayurvedic care"
+    },
+    {
+      "id":14,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/8a31db906db93f7cba59f1c48d3ba239.png?f=png?dim=256x0",
+      "Category":"Health condition"
+    },
+    {
+      "id":15,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/763b558b32313005bc11d0cae0e26f58.png?f=png?dim=256x0",
+      "Category":"Accessories & wearables"
+    },
+    {
+      "id":16,
+      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f10917087a483040b557e4b18204312c.png?f=png?dim=256x0",
+      "Category":"Top products"
+    }
   ]
 }
