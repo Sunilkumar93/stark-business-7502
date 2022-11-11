@@ -72,6 +72,7 @@ const Products = () => {
                 borderRadius={10}
                 _hover={{
                   boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
+                  cursor:'pointer'
                 }}
               >
                 <Image src={card.image} alt="image" />

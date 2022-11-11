@@ -71,86 +71,693 @@
       "offer": "Flat 27% off + up to Rs.1000 surprise cashback"
     }
   ],
-  "Categories":[
+  "Categories": [
     {
-      "id":1,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/b26fa52dd35339e1a4e00c47b04e12d0.jpg?f=jpg?dim=256x0",
-      "Category":"Pet care"
+      "id": 1,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/b26fa52dd35339e1a4e00c47b04e12d0.jpg?f=jpg?dim=256x0",
+      "Category": "Pet care"
     },
     {
-      "id":2,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/1e622b0308ec3ab48887512eaa3488a5.png?f=png?dim=256x0",
-      "Category":"Personal care"
+      "id": 2,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/1e622b0308ec3ab48887512eaa3488a5.png?f=png?dim=256x0",
+      "Category": "Personal care"
     },
     {
-      "id":3,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/cfc8ee511609321e91eb86a34f5b2885.png?f=png?dim=256x0",
-      "Category":"Healthcare devices"
+      "id": 3,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/cfc8ee511609321e91eb86a34f5b2885.png?f=png?dim=256x0",
+      "Category": "Healthcare devices"
     },
     {
-      "id":4,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/335dae76832d370c94f0440f5ba89e1f.png?f=png?dim=256x0",
-      "Category":"Health food and drinks"
+      "id": 4,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/335dae76832d370c94f0440f5ba89e1f.png?f=png?dim=256x0",
+      "Category": "Health food and drinks"
     },
     {
-      "id":5,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/403b8ada7b113c7cb2e8d09e3420edfa.png?f=png?dim=256x0",
-      "Category":"Beauty"
+      "id": 5,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/403b8ada7b113c7cb2e8d09e3420edfa.png?f=png?dim=256x0",
+      "Category": "Beauty"
     },
     {
-      "id":6,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/fa936f30b4563fc4abd187fb22fe5258.png?f=png?dim=256x0",
-      "Category":"Elderly care"
+      "id": 6,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/fa936f30b4563fc4abd187fb22fe5258.png?f=png?dim=256x0",
+      "Category": "Elderly care"
     },
     {
-      "id":7,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/dc96175686f135b5a22d1e57165d0246.png?f=png?dim=256x0",
-      "Category":"Home care"
+      "id": 7,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/dc96175686f135b5a22d1e57165d0246.png?f=png?dim=256x0",
+      "Category": "Home care"
     },
     {
-      "id":8,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f692f7243b8036ed97d99a7973dd42b3.png?f=png?dim=256x0",
-      "Category":"Mother and baby care"
+      "id": 8,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f692f7243b8036ed97d99a7973dd42b3.png?f=png?dim=256x0",
+      "Category": "Mother and baby care"
     },
     {
-      "id":9,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/154dec0567b23244b7dcbf2158d39eee.png?f=png?dim=256x0",
-      "Category":"Skin care"
+      "id": 9,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/154dec0567b23244b7dcbf2158d39eee.png?f=png?dim=256x0",
+      "Category": "Skin care"
     },
     {
-      "id":10,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/514d0d7d01a63502b4ebfec9ae26f4d2.png?f=png?dim=256x0",
-      "Category":"Fitness supplements"
+      "id": 10,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/514d0d7d01a63502b4ebfec9ae26f4d2.png?f=png?dim=256x0",
+      "Category": "Fitness supplements"
     },
     {
-      "id":11,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/105ceca515ee30509f93309ae75306aa.png?f=png?dim=256x0",
-      "Category":"Diabetic care"
+      "id": 11,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/105ceca515ee30509f93309ae75306aa.png?f=png?dim=256x0",
+      "Category": "Diabetic care"
     },
     {
-      "id":12,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/d1b29f7a2b5f3d62a3d47b617aceef1b.png?f=png?dim=256x0",
-      "Category":"Sexual wellness"
+      "id": 12,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/d1b29f7a2b5f3d62a3d47b617aceef1b.png?f=png?dim=256x0",
+      "Category": "Sexual wellness"
     },
     {
-      "id":13,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/ecad9a974e003fb987858b3ee81413c6.png?f=png?dim=256x0",
-      "Category":"Ayurvedic care"
+      "id": 13,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/ecad9a974e003fb987858b3ee81413c6.png?f=png?dim=256x0",
+      "Category": "Ayurvedic care"
     },
     {
-      "id":14,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/8a31db906db93f7cba59f1c48d3ba239.png?f=png?dim=256x0",
-      "Category":"Health condition"
+      "id": 14,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/8a31db906db93f7cba59f1c48d3ba239.png?f=png?dim=256x0",
+      "Category": "Health condition"
     },
     {
-      "id":15,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/763b558b32313005bc11d0cae0e26f58.png?f=png?dim=256x0",
-      "Category":"Accessories & wearables"
+      "id": 15,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/763b558b32313005bc11d0cae0e26f58.png?f=png?dim=256x0",
+      "Category": "Accessories & wearables"
     },
     {
-      "id":16,
-      "image":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f10917087a483040b557e4b18204312c.png?f=png?dim=256x0",
-      "Category":"Top products"
+      "id": 16,
+      "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f10917087a483040b557e4b18204312c.png?f=png?dim=256x0",
+      "Category": "Top products"
+    }
+  ],
+  "newlaunches": [
+    {
+      "id": 1,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Z07796/supradyn-immuno-multivitamin-natural-immunity-booster-with-vit-c-vit-d-zinc-30-tablets-2-1665045164.jpg?dim=1280x0",
+      "title": "Supradyn Immuno+, Multivitamin, Natural",
+      "mrp": "270.00",
+      "price": "243.00",
+      "off": "10% OFF"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/H31712/pharmeasy-nebulizer-2-1666952698.jpg?dim=1280x0",
+      "title": "Pharmeasy Nebulizer",
+      "mrp": "1550.00",
+      "price": "1085.00",
+      "off": "30% OFF"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I33574/pulmo-plus-strawberry-powder-200-gm-2-1654256739.jpg?dim=1280x0",
+      "title": "Pulmo Plus Strawberry",
+      "mrp": "315.00",
+      "price": "248.00",
+      "off": "21% OFF"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/K68237/accu-chek-active-glucometer-kit-with-free-10-strips-dr-morepen-bp-one-bp-02-bp-monitor-combo-pack-2-1632782821.jpg?dim=1280x0",
+      "title": "Accu-chek Active Glucometer Kit",
+      "mrp": "999.00",
+      "price": "",
+      "off": ""
+    }
+  ],
+  "trending": [
+    {
+      "id": 1,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I05582/dr-morepen-gluco-one-bg-03-glucometer-test-strips-box-of-50-1-1654168216.jpg?dim=1280x0",
+      "title": "Dr Morepen Gluco One Bg 03 Glucometer Test Strips Box Of 50",
+      "mrp": "849.00",
+      "price": "645.24",
+      "off": "24% OFF"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/K78780/pharmeasy-pill-box-organizer-2-1654165485.jpg?dim=1280x0",
+      "title": "Pharmeasy Pill Box Organizer",
+      "mrp": "499.00",
+      "price": "299.00",
+      "off": "40% OFF"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/R40178/vicks-vaporub-xtra-strong-50-ml-relief-from-cold-cough-headache-and-body-pain-2-1641794173.jpg?dim=1280x0",
+      "title": "Vicks Vaporub Xtra Strong 50 Ml,relief",
+      "mrp": "185.00",
+      "price": "179.24",
+      "off": "3% OFF"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I00623/cetaphil-gentle-skin-cleanser-125ml-2-1652870126.jpg?dim=1280x0",
+      "title": "Cetaphil Gentle Skin Cleanser - 125ml",
+      "mrp": "305.00",
+      "price": "240.94",
+      "off": "21% OFF"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/L79986/everherb-karela-jamun-juice-helps-maintains-healthy-sugar-levels-helps-in-weight-management-1l-2-1666336637.jpg?dim=1280x0",
+      "title": "Everherb Karela Jamun Juice - Helps Maintains Healthy Sugar Levels",
+      "mrp": "399.00",
+      "price": "207.24",
+      "off": "48% OFF"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/G30601/vicks-roll-on-inhaler-2-1659518002.jpg?dim=1280x0",
+      "title": "Vicks Roll On Inhaler",
+      "mrp": "89.00",
+      "price": "89.24",
+      "off": "8% OFF"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/G92287/pharmeasy-orthopaedic-electric-heat-belt-extra-large-2-1654257073.jpg?dim=1280x0",
+      "title": "Pharmeasy Orthopaedic Electric",
+      "mrp": "1099.00",
+      "price": "659.40",
+      "off": "40% OFF"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/211685/vantej-toothpaste-for-hypersensitive-teeth-tube-of-100-g-1-1632774129.jpg?dim=1280x0",
+      "title": "Vantej Toothpaste For Hypersensitive Teeth",
+      "mrp": "317.00",
+      "price": "247.65",
+      "off": "22% OFF"
+    },
+    {
+      "id": 9,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/124293/nivea-body-milk-lotion-400ml-2-1654258203.jpg?dim=1280x0",
+      "title": "Nivea Body Milk Lotion 400ml",
+      "mrp": "399.00",
+      "price": "291.24",
+      "off": "27% OFF"
+    },
+    {
+      "id": 10,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I40164/durex-extra-dots-packet-of-10-condoms-3-1654166124.jpg?dim=1280x0",
+      "title": "Durex Extra Dots Packet Of 10 Condoms",
+      "mrp": "245.00",
+      "price": "196.00",
+      "off": "20% OFF"
+    },
+    {
+      "id": 11,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I40419/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-500gm-2-1660816033.jpg?dim=1280x0",
+      "title": "Venusia Max Intensive Moisturizing Lotion,",
+      "mrp": "989.00",
+      "price": "741.00",
+      "off": "25% OFF"
+    },
+    {
+      "id": 12,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/177755/unwanted-72-strip-of-1-tablet-2-1641787823.jpg?dim=700x0&dpr=1&q=100",
+      "title": "Unwanted 72 Strip Of 1 Tablet",
+      "mrp": "110.00",
+      "price": "95.00",
+      "off": "15% OFF"
+    },
+    {
+      "id": 13,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-glucometer-test-strips-50s-pack-1-1654078262.jpg?dim=1280x0",
+      "title": "Onetouch Select Glucometer Test Strip",
+      "mrp": "1195.00",
+      "price": "1135.00",
+      "off": "5% OFF"
+    }
+  ],
+  "labtests": [
+    {
+      "id": 1,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/10dfe8c8aa7-HealthCheckups.jpg?dim=256x0"
+    },
+    {
+      "id": 2,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/69588f95674-Diabetes.jpg?dim=256x0"
+    },
+    {
+      "id": 3,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/6c5479c6c0c-Vitamins.jpg?dim=256x0"
+    },
+    {
+      "id": 4,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/c507b2563fd-thyroid.png?dim=256x0"
+    },
+    {
+      "id": 5,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/eeb3fe3251f-WomenCare.jpg?dim=256x0"
+    },
+    {
+      "id": 6,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/a953829ca96-Heart.jpg?dim=256x0"
+    },
+    {
+      "id": 7,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/94616a36a9a-Lifestyle.jpg?dim=256x0"
+    },
+    {
+      "id": 8,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/355e9b77fb5-FeverInfection.jpg?dim=256x0"
+    },
+    {
+      "id": 9,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/6e78a241e48-CovidCare.jpg?dim=256x0"
+    },
+    {
+      "id": 1,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/64444851b5e-BoneHealth.jpg?dim=256x0"
+    }
+  ],
+  "concern": [
+    {
+      "id": 1,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/923a665cc6f-Skin_care.png?dim=128x0",
+      "title": "Skin Care"
+    },
+    {
+      "id": 2,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/18d2e2ee86b-Vitamins.png?dim=128x0",
+      "title": "Vitamins & Supplements"
+    },
+    {
+      "id": 3,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/0af9ac9f350-Diabetes.webp?dim=128x0",
+      "title": "Diabetes Care & Sugar"
+    },
+    {
+      "id": 4,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/24a0d2c733e-Heart.webp?dim=128x0",
+      "title": "Cardiac Care"
+    },
+    {
+      "id": 5,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/68369c9df98-Pregnancy.webp?dim=128x0",
+      "title": "Baby & Mom Care"
+    },
+    {
+      "id": 6,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/16ab65c0826-Covid.webp?dim=128x0",
+      "title": "Covid Care"
+    },
+    {
+      "id": 7,
+      "image": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/26bbd7a9e98-Lifestyle.webp?dim=128x0",
+      "title": "Lifestyle Disorders"
+    }
+  ],
+  "essentials": [
+    {
+      "id": 1,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1666336677.jpg?dim=1440x0",
+      "title": "Pharmeasy Multivitamin Multimineral - Immunity",
+      "mrp": "699.00",
+      "price": "629.10",
+      "off": "10% OFF"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/156565/saridon-headache-relief-tablet-strip-of-10-tablets-2-1641398741.jpg?dim=1440x0",
+      "title": "Saridon Headache Relief Tablet- Strip Of 10 Tablets",
+      "mrp": "42.00",
+      "price": "38.00",
+      "off": "8% OFF"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-2-1654166287.jpg?dim=1440x0",
+      "title": "Vicks Inhaler Keychain Pack Of 1",
+      "mrp": "62.00",
+      "price": "61.00",
+      "off": "1% OFF"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/181135/vicks-vaporub-25ml-relief-from-cold-cough-headache-and-body-pain-2-1654078746.jpg?dim=1440x0",
+      "title": "Vicks Vaporub 25ml, Relief From Cold, Cough,",
+      "mrp": "90.00",
+      "price": "89.00",
+      "off": "1% OFF"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/227623/sevenseas-original-capsule-100s-1-1664874329.jpg?dim=1440x0",
+      "title": "Sevenseas Original Capsule 100`s",
+      "mrp": "319.00",
+      "price": "255.00",
+      "off": "20% OFF"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1661760071.jpg?dim=1440x0",
+      "title": "Everherb (by Pharmeasy) Ashwagandha - Immunit",
+      "mrp": "599.00",
+      "price": "341.00",
+      "off": "43% OFF"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/E85132/liveasy-wellness-vitamin-c-990mg-with-zinc-10mg-powerful-immunity-booster-60-veg-tablets-2-1661760130.jpg?dim=1440x0",
+      "title": "Liveasy Wellness Vitamin C (990mg) With Zinc",
+      "mrp": "799.00",
+      "price": "599.00",
+      "off": "25% OFF"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/U97974/everherb-giloy-tulsi-juice-strengthens-body-defence-system-natural-immunity-booster-1-litre-2-1654233486.jpg?dim=1440x0",
+      "title": "Everherb Giloy Tulsi Juice - Strengthens Body",
+      "mrp": "399.00",
+      "price": "199.00",
+      "off": "50% OFF"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/f9536c55ef1-App.jpg?dim=1440x0",
+      "title": "Contour"
+    },
+    {
+      "id": 2,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/3eb4eb6bfbe-App_Himalaya.jpg?dim=1440x0",
+      "title": "Himalaya"
+    },
+    {
+      "id": 3,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/40facc7fa28-Pharmeasy-App.jpg?dim=1440x0",
+      "title": "Pharmeasy"
+    },
+    {
+      "id": 4,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/a559f294d43-Vicks-min.png?dim=1440x0",
+      "title": "Vicks"
+    },
+    {
+      "id": 5,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/1466c422fcd-Sugerfree.png?dim=1440x0",
+      "title": "Sugar Free"
+    },
+    {
+      "id": 6,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/b66cd72df13-Evion.jpg?dim=1440x0",
+      "title": "Evion"
+    },
+    {
+      "id": 7,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/d87a2026235-App_Toothsi.jpg?dim=1440x0",
+      "title": "Toothsi"
+    },
+    {
+      "id": 8,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/201210bc27d-App_Huggies.jpg?dim=1440x0",
+      "title": "Huggies"
+    },
+    {
+      "id": 9,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/2f3e832e341-Everherb-min.png?dim=1440x0",
+      "title": "EverHerb"
+    },
+    {
+      "id": 10,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/3c344faad99-App_Featured-J.jpg?dim=1280x0",
+      "title": "Johnson's"
+    },
+    {
+      "id": 11,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/d3481485e73-App_stayfree.jpg?dim=1280x0",
+      "title": "Stayfree"
+    },
+    {
+      "id": 12,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/f2d61678901-Ensure.png?dim=1280x0",
+      "title": "Ensure"
+    },
+    {
+      "id": 13,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/c774461a093-Pentasure_App.jpg?dim=1280x0",
+      "title": "Pentasure"
+    },
+    {
+      "id": 14,
+      "image": "https://cms-contents.pharmeasy.in/carousel_item/1151b7d7c0e-LivEasy-min.png?dim=1280x0",
+      "title": "LivEasy"
+    }
+  ],
+  "dealofday": [
+    {
+      "id": 1,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I41687/nivea-soft-light-moisturizer-bottle-of-100-ml-2-1654251068.jpg?dim=1280x0",
+      "title": "Nivea Soft Light Moisturizer Of 100 Ml",
+      "mrp": "159.00",
+      "price": "12.00",
+      "off": "23% OFF"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/211685/vantej-toothpaste-for-hypersensitive-teeth-tube-of-100-g-1-1632774129.jpg?dim=1440x0",
+      "title": "Vantej Toothpaste For Hypersensitive Teeth",
+      "mrp": "317.50",
+      "price": "247.00",
+      "off": "22% OFF"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I04064/depiwhite-tube-of-15ml-eye-contour-gel-1-1641398930.jpg?dim=1280x0",
+      "title": "Depiwhite Tube Of 15ml Eye Contour Gel",
+      "mrp": "678.00",
+      "price": "522.00",
+      "off": "23% OFF"
+    },
+    {
+      "id": 4,
+      "image": "https://pharmeasy.in/health-care/products/softovac-constipation-powder-bottle-of-100-g-190292",
+      "title": "Softovac Constipation Powder Bottle Of 100 G",
+      "mrp": "185.00",
+      "price": "135.00",
+      "off": "27% OFF"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Z07796/supradyn-immuno-multivitamin-natural-immunity-booster-with-vit-c-vit-d-zinc-30-tablets-2-1665045164.jpg?dim=1440x0",
+      "title": "Supradyn Immuno+, Multivitamin, Natural",
+      "mrp": "270.00",
+      "price": "243.00",
+      "off": "10% OFF"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/071710/evion-400mg-strip-of-10-capsules-1-1664874846.jpg?dim=1280x0",
+      "title": "Evion 400mg Strip Of 10 Capsules",
+      "mrp": "35.00",
+      "price": "31.00",
+      "off": "12% OFF"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/M95641/celevida-kesar-elaichi-diabetes-care-powder-tin-of-200-gm-2-1641792071.jpg?dim=1280x0",
+      "title": "Dr. Reddy's Celevida Nutrition Drink For",
+      "mrp": "390.00",
+      "price": "304.00",
+      "off": "22% OFF"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/097431/johnsons-baby-soap-50g-2-1654258344.jpg?dim=1280x0",
+      "title": "Johnson's Baby Soap - 50g",
+      "mrp": "42.00",
+      "price": "37.00",
+      "off": "10% OFF"
+    },
+    {
+      "id": 9,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/M88942/plum-bright-years-cell-renewal-serum-30-ml-2-1649767233.jpg?dim=1280x0",
+      "title": "Plum Bright Years Cell Renewal Serum- 30 Ml",
+      "mrp": "1575.00",
+      "price": "866.25",
+      "off": "45% OFF"
+    },
+    {
+      "id": 10,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/J51815/liveasy-wellness-apple-cider-vinegar-with-mother-improves-metabolism-500ml-bottle-2-1654165611.jpg?dim=1280x0",
+      "title": "Liveasy Wellness Apple Cider Vinegar With",
+      "mrp": "645.00",
+      "price": "324.00",
+      "off": "50% OFF"
+    },
+    {
+      "id": 11,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/X65262/liveasy-wellness-dusting-powder-100gm-2-1641794737.jpg?dim=1280x0",
+      "title": "Liveasy Wellness Dusting Powder 100gm",
+      "mrp": "90.00",
+      "price": "90",
+      "off": ""
+    },
+    {
+      "id": 12,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O56648/wellbeing-nutrition-marvel-thor-melts-kids-organic-for-healthy-gut-digestion-immunity-30-strips-2-1647362587.jpg?dim=1280x0",
+      "title": "Wellbeing Nutrition Marvel Thor Melts",
+      "mrp": "699.00",
+      "price": "594.00",
+      "off": "15% OFF"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": 1,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/L79986/everherb-karela-jamun-juice-helps-maintains-healthy-sugar-levels-helps-in-weight-management-1l-2-1666336637.jpg?dim=256x0",
+      "title": "Everherb Karela Jamun Juice - Helps Maintains",
+      "mrp": "399.00",
+      "price": "207.00",
+      "off": "48% OFF"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-2-1661760061.jpg?dim=256x0",
+      "title": "Liveasy Wellness Calcium, Magnesium,",
+      "mrp": "599.00",
+      "price": "389.00",
+      "off": "35% OFF"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1654233812.jpg?dim=256x0",
+      "title": "Pharmeasy All-in -one Vaporizer",
+      "mrp": "599.00",
+      "price": "269.00",
+      "off": "55% OFF"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/B39499/pharmeasy-hot-water-bag-blue-2-1656420198.jpg?dim=256x0",
+      "title": "Pharmeasy Hot Water Bag - Relieves Pain ",
+      "mrp": "349.00",
+      "price": "244.00",
+      "off": "30% OFF"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/G67452/pharmeasy-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-2-1656417512.jpg?dim=256x0",
+      "title": "Pharmeasy Calcium, Magnesium, Vitamin D3 & Zinc - Bones & Dent",
+      "mrp": "499.00",
+      "price": "349.00",
+      "off": "30% OFF"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1666336677.jpg?dim=256x0",
+      "title": "Pharmeasy Multivitamin Multimineral - Immunity",
+      "mrp": "699.00",
+      "price": "629.00",
+      "off": "10% OFF"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/D52223/liveasy-foods-healthy-roasted-seed-mix-blend-of-6-fibre-rich-healthy-roasted-seeds-200-gms-2-1656420865.jpg?dim=256x0",
+      "title": "Liveasy Foods Healthy Roasted Seed Mix ",
+      "mrp": "399.00",
+      "price": "199.00",
+      "off": "50% OFF"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/W00450/liveasy-essentials-copper-bottle-ayurvedic-health-benefits-leak-proof-cap-950ml-1-1641793079.jpg?dim=256x0",
+      "title": "Liveasy Essentials Copper Bottle",
+      "mrp": "1199.00",
+      "price": "839.00",
+      "off": "30% OFF"
+    },
+    {
+      "id": 9,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/E07034/liveasy-wellness-diabetic-protein-blood-sugar-weight-management-french-vanilla-400g-jar-2-1654169670.jpg?dim=256x0",
+      "title": "Liveasy Wellness Diabetic Protein",
+      "mrp": "999.00",
+      "price": "649.00",
+      "off": "35% OFF"
+    },
+    {
+      "id": 10,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/E84061/liveasy-foods-baked-quinoa-puffs-powerhouse-of-protein-9-essential-amino-acids-100-grams-2-1641794617.jpg?dim=256x0",
+      "title": "Liveasy Foods Quinoa Puffs",
+      "mrp": "299.00",
+      "price": "149.00",
+      "off": "50% OFF"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://blog-images.pharmeasy.in/2022/11/09174809/1-5.jpg?dim=1280x0",
+      "about": "Breast Cancer : Foods To Have And Avoid During And After Treatmen"
+    },
+    {
+      "id": 2,
+      "image": "https://blog-images.pharmeasy.in/2022/11/08163433/2-3.jpg?dim=1280x0",
+      "about": "Bariatric Surgery – Foods To Eat And Avoid"
+    },
+    {
+      "id": 3,
+      "image": "https://blog-images.pharmeasy.in/2022/11/09163355/1-4.jpg?dim=1280x0",
+      "about": "Beauty Parlour Stroke Syndrome: Explained!"
+    },
+    {
+      "id": 4,
+      "image": "https://blog-images.pharmeasy.in/2021/01/06134714/3-1.jpg?dim=1280x0",
+      "about": "How And Why You Need To Stop Masturbating?"
+    },
+    {
+      "id": 5,
+      "image": "https://blog-images.pharmeasy.in/2018/07/20090746/Image_3-13.jpg?dim=1280x0",
+      "about": "18 Simple Home Remedies For Fungal Infections!"
+    },
+    {
+      "id": 6,
+      "image": "https://blog-images.pharmeasy.in/2022/11/07184015/1-3.jpg?dim=1280x0",
+      "about": "Everything You Need To Know About Nail Psoriasis"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Rajarshi Sarkar",
+      "date": "April 22, 2022",
+      "review": "The app is really wonderful. Being a Product Manager myself, I would say that the User experience (UI/UX) of the app is top notch (easy to use, simple and convenient). Coming to services and delivery, I would say Pharmeasy is doing a tremendous job even during this unprecedented pandemic situation."
+    },
+    {
+      "id": 2,
+      "name": "Darpan Dholakia",
+      "date": "April 23, 2022",
+      "review": "Best service and app amongst all available. I have been using it for more than 3 years, and even during the pandemic, they have kept their standards high and are delivering the order within 24 hours. Keep up the good work."
+    },
+    {
+      "id": 3,
+      "name": "Lipi Chaudhuri",
+      "date": "April 15, 2022",
+      "review": "This app is a game changer for me. I am unable to go out always to buy medicinal products. Pharmeasy gives me the last liberty to shop essential healthcare products from home. The app is very user friendly and me being an elderly person do not find any difficulty in using it. They deliver well in time. Thanks😊"
+    },
+    {
+      "id": 4,
+      "name": "Tirthankar Das Purkayastha",
+      "date": "April 18, 2022",
+      "review": "Very good app. Would recommend it to everyone requiring fast and efficient delivery of medicinal products at the doorstep."
+    },
+    {
+      "id": 5,
+      "name": "Debanjan Roy",
+      "date": "April 18, 2022",
+      "review": "Excellent experience. Pharmeasy has not let it's customers down during lockdown. Thanks team. Great job. The application is also very smooth. And does its job well with an attractive UI and easy to use features. Good job developer."
+    },
+    {
+      "id": 6,
+      "name": "Rohini Sarkar",
+      "date": "April 21, 2022",
+      "review": "Very helpful and friendly app in terms of usability, customer support & money saving from the point of medical necessity of every person."
     }
   ]
 }
