@@ -7,6 +7,10 @@ import Products from "./Landing/Products";
 import Searchitem from "./Landing/Searchitem";
 
 import Categories from "./Landing/Categories";
+import NewLaunches from "./Landing/NewLaunches";
+import Trending from "./Landing/Trending";
+import Labtests from "./Landing/Labtests";
+import Concern from "./Landing/Concern";
 
 const Home = () => {
   return (
@@ -109,6 +113,10 @@ const Home = () => {
         </HStack>
       </Box>
       <Categories />
+      <NewLaunches />
+      <Trending />
+      <Labtests />
+      <Concern />
     </div>
   );
 };

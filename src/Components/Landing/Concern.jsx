@@ -1,27 +1,46 @@
 import { ArrowLeftIcon, ArrowRightIcon } from "@chakra-ui/icons";
-import { Box, Button, Container, Flex, Image, Text } from "@chakra-ui/react";
+import {
+  Box,
+  Button,
+  Container,
+  Flex,
+  Heading,
+  Image,
+  Text,
+  VStack,
+} from "@chakra-ui/react";
 import axios from "axios";
 import React from "react";
 
 const getData = () => {
-  return axios.get("http://localhost:8080/products");
+  return axios({
+    method: "get",
+    baseURL: "http://localhost:8080",
+    url: "/concern",
+  });
 };
-
-const Products = () => {
+const Concern = () => {
   const [data, setData] = React.useState([]);
-
   const [slides, setSlides] = React.useState({
     start: 0,
     end: 6,
   });
-
   React.useEffect(() => {
     getData().then((res) => setData(res.data));
   }, []);
+
   return (
-    <Container maxW={"100%"} mx={0}>
-      <Flex gap={5} position="relative">
-      {slides.start !== 0 && (
+    <Container my={10} justifyContent={"center"} maxW="100%">
+      <Box my={2}>
+        <Heading size="lg" as="h2">
+          Shop by Concern
+        </Heading>
+      </Box>
+      <Box my={2}>
+        <Text fontSize="lg">Products are handpicked by experts</Text>
+      </Box>
+      <Flex my={9} gap={5} position="relative">
+        {slides.start !== 0 && (
           <Button
             bg={"gray.900"}
             variant="unstyled"
@@ -42,7 +61,7 @@ const Products = () => {
             <ArrowLeftIcon />
           </Button>
         )}
-        {slides.end !== data.length - 1 && slides.end<data.length && (
+        {slides.end !== data.length - 1 && slides.end < data.length && (
           <Button
             bg={"gray.900"}
             variant="unstyled"
@@ -63,26 +82,30 @@ const Products = () => {
             <ArrowRightIcon />
           </Button>
         )}
-        {data?.map((card, index) => {
+        {data?.map((item, index) => {
           return (
             index <= slides.end &&
             index >= slides.start && (
-              <Box
-                key={card.id}
+              <VStack
+                key={item.id}
                 textAlign="center"
-                alignItems={"center"}
-                borderRadius={10}
-                _hover={{
-                  boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
-                  cursor:'pointer'
-                }}
+                alignItems="center"
+                w="12%"
               >
-                <Image src={card.image} alt="image" />
-                <Text fontWeight={"600"}>{card.title}</Text>
-                <Text as={"b"} color="red.400">
-                  {card.discount}
-                </Text>
-              </Box>
+                <Box
+                  
+                  borderRadius={150}
+                  _hover={{
+                    boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
+                    cursor: "pointer",
+                  }}
+                >
+                  <Image boxSize={148} src={item.image} alt="image" />
+                </Box>
+                <Box>
+                  <Text fontWeight={"600"}>{item.title}</Text>
+                </Box>
+              </VStack>
             )
           );
         })}
@@ -91,4 +114,4 @@ const Products = () => {
   );
 };
 
-export default Products;
+export default Concern;
