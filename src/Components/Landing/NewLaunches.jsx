@@ -14,7 +14,7 @@ import axios from "axios";
 import React from "react";
 
 const getData = () => {
-  return axios.get("http://localhost:8080/newlaunches");
+  return axios.get("https://mock-server-app-3436.onrender.com/newlaunches");
 };
 
 const NewLaunches = () => {

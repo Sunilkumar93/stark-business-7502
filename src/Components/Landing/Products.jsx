@@ -4,7 +4,7 @@ import axios from "axios";
 import React from "react";
 
 const getData = () => {
-  return axios.get("http://localhost:8080/products");
+  return axios.get("https://mock-server-app-3436.onrender.com/products");
 };
 
 const Products = () => {
@@ -21,7 +21,7 @@ const Products = () => {
   return (
     <Container maxW={"100%"} mx={0}>
       <Flex gap={5} position="relative">
-      {slides.start !== 0 && (
+        {slides.start !== 0 && (
           <Button
             bg={"gray.900"}
             variant="unstyled"
@@ -42,7 +42,7 @@ const Products = () => {
             <ArrowLeftIcon />
           </Button>
         )}
-        {slides.end !== data.length - 1 && slides.end<data.length && (
+        {slides.end !== data.length - 1 && slides.end < data.length && (
           <Button
             bg={"gray.900"}
             variant="unstyled"
@@ -74,7 +74,7 @@ const Products = () => {
                 borderRadius={10}
                 _hover={{
                   boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
-                  cursor:'pointer'
+                  cursor: "pointer",
                 }}
               >
                 <Image src={card.image} alt="image" />

@@ -14,7 +14,7 @@ import React from "react";
 const getData = (url) => {
   return axios({
     method: "get",
-    baseURL: "http://localhost:8080",
+    baseURL: "https://mock-server-app-3436.onrender.com",
     url: url,
   });
 };
